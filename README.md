@@ -20,16 +20,19 @@
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwcW12c21xemhuc25kcWJ1dTZpejRrdHdrYmZnMHdwM2Fzcnk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhJ8pSzwyI7fl5Jl8m/giphy.gif" width="600" height="300"/>
+  ![Image](https://github.com/user-attachments/assets/e23b663d-2d5f-492c-a821-731972106030)
 </div>
 
 ----
 
 ### :man_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently a student majoring in Information Systems at Universitas Dian Nuswantoro, with a strong passion for technology and digital solutions.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammaddzakyhamid/)
 
+- :computer: I’m actively building web applications, contributing to both frontend (HTML, CSS, JavaScript, Bootstrap) and backend (PHP, MySQL,)
+
+- :palette: I also have a growing interest and skills in UI/UX design, focusing on creating user-friendly and visually appealing interfaces using tools like Figma.
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -51,7 +54,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/bade/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![XAMPP](https://img.shields.io/badge/XAMPP-%2300BFC3.svg?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 ----
 
