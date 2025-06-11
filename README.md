@@ -1,29 +1,61 @@
-## halo guys, nice to meet u 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNhNTI1MGRqb3o4c3Vnb2s1MHJ3bjVlMTNrOHc3bG1jNWxkdmF1ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cruO3FTeoAxjiTVxPW/giphy.gif" width="100"/>
+  
+  <div id="badges">
+  <a href="https://www.linkedin.com/in/muhammaddzakyhamid/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/humantly_/?hl=id">
+    <img src="https://img.shields.io/badge/Instagram-red?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+  </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=ovaltinegif&style=flat-square&color=blue" alt=""/>
+  
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+</div>
 
-<!--
-**ovaltinegif/ovaltinegif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwcW12c21xemhuc25kcWJ1dTZpejRrdHdrYmZnMHdwM2Fzcnk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhJ8pSzwyI7fl5Jl8m/giphy.gif" width="600" height="300"/>
+</div>
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :man_technologist: About Me :
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-![suprabrok](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwcW12c21xemhuc25kcWJ1dTZpejRrdHdrYmZnMHdwM2Fzcnk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhJ8pSzwyI7fl5Jl8m/giphy.gif)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/muhammaddzakyhamid/)
 
+----
 
-##### Languanges
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+### :hammer_and_wrench: Languages and Tools :
 
+### Frontend Development
 
-##### connect with me
-![https://instgram.com/humantly_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/muhammad-dzaky-hamid-4b0676263/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+
+### Backend Development
+
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
+
+### Tools
+
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
+![XAMPP](https://img.shields.io/badge/XAMPP-%2300BFC3.svg?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
+----
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ovaltinegif&theme=bear&exclude_days=Tue)](https://git.io/streak-stats)
+----
+![ovaltinegif's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovaltinegif&theme=bear&show_icons=true&hide_border=false&layout=compact)
