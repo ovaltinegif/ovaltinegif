@@ -50,7 +50,7 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
 
-### visual maker
+### Visual Maker
 
 [![My Skills](https://skillicons.dev/icons?i=pr,ai,ae,figma&theme=light)](https://skillicons.dev)
 
