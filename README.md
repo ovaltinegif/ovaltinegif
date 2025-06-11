@@ -1,4 +1,4 @@
-## Hi there 👋
+## halo guys, nice to meet u 👋
 
 <!--
 **ovaltinegif/ovaltinegif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![supra brok](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMwcW12c21xemhuc25kcWJ1dTZpejRrdHdrYmZnMHdwM2Fzcnk0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhJ8pSzwyI7fl5Jl8m/giphy.gif)
