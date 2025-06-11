@@ -20,9 +20,10 @@
 </div>
 
 <div align="center">
-  ![Image](https://github.com/user-attachments/assets/e23b663d-2d5f-492c-a821-731972106030)
-</div>
 
+![Image](https://github.com/user-attachments/assets/e23b663d-2d5f-492c-a821-731972106030)
+
+</div>
 ----
 
 ### :man_technologist: About Me :
@@ -32,7 +33,7 @@
 
 - :computer: I’m actively building web applications, contributing to both frontend (HTML, CSS, JavaScript, Bootstrap) and backend (PHP, MySQL,)
 
-- :palette: I also have a growing interest and skills in UI/UX design, focusing on creating user-friendly and visually appealing interfaces using tools like Figma.
+- :art: I also have a growing interest and skills in UI/UX design, focusing on creating user-friendly and visually appealing interfaces using tools like Figma.
 ----
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -54,7 +55,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/bade/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![XAMPP](https://img.shields.io/badge/XAMPP-%2300BFC3.svg?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 ----
 
