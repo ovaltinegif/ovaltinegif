@@ -21,7 +21,7 @@
 
 <div align="center">
 
-![Image](https://github.com/user-attachments/assets/e23b663d-2d5f-492c-a821-731972106030)
+![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/123229208/454074975-e23b663d-2d5f-492c-a821-731972106030.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250611T200900Z&X-Amz-Expires=300&X-Amz-Signature=699139a39315f5083379ae17ce028df2842355fc9b9e6e550ed171107751bff9&X-Amz-SignedHeaders=host)
 
 </div>
 ----
