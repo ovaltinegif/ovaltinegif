@@ -50,6 +50,10 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%234479a1.svg?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
 
+### visual maker
+
+[![My Skills](https://skillicons.dev/icons?i=pr,ai,ae,figma&theme=light)](https://skillicons.dev)
+
 ### Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
